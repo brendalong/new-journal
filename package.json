@@ -2,7 +2,7 @@
   "name": "new-journal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://brendalong.github.io/new-journal",
+  "homepage": "http://brendalong.github.io/new-journal/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
